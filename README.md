@@ -6,5 +6,7 @@ Game1 token is a hyper-deflationary token, which rewards investors for holding g
 $Game1 token is a medium of exchange within the Game1Network platform and has numerous utilities including :-
 
 1 - An in-game currency for play and bet.
+
 2 - An in-game currency for payouts.
+
 3 - Reward Distribution to $game1 holders.
